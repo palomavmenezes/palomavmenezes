@@ -2,7 +2,7 @@
 
 ### 🌐 Desenvolvedora Front-End
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/paloma-menezes/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/palomamenezes/) 
 
 ---
 
@@ -61,6 +61,6 @@ Atualmente, estou estudando React e aprimorando meus conhecimentos em **Next e N
 ## 📬 Contato
 
 - **E-mail**: palomacg.contato@gmail.com
-- **LinkedIn**: [Paloma Menezes](https://www.linkedin.com/in/paloma-menezes/)
+- **LinkedIn**: [Paloma Menezes](https://www.linkedin.com/in/palomamenezes/)
 
 ---
