@@ -60,7 +60,7 @@ Atualmente, estou estudando React e aprimorando meus conhecimentos em **Next e N
 
 ## 📬 Contato
 
-- **E-mail**: palomamenezes@exemplo.com
+- **E-mail**: palomacg.contato@gmail.com
 - **LinkedIn**: [Paloma Menezes](https://www.linkedin.com/in/paloma-menezes/)
 
 ---
